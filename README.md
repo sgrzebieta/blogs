@@ -5,3 +5,4 @@ author: Simon Grzebieta
 draft: true
 tags: ['devops', "automation","beer",]
 ---
+Blogs written by Szymon (Simon) Grzebieta
